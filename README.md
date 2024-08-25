@@ -74,6 +74,8 @@ Aqui, os usuários podem comprar cartões presente, perfeitos para oferecer como
 - **CSS3**: Para o design e estilização do site (futuras melhorias).
 - **Google Maps API**: Para a integração do mapa de localização.
 
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oMaestro174&layout=compact&bg_color=122&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 ## 🔗 Links para Redes Sociais
 
 - [Instagram](https://www.instagram.com)
