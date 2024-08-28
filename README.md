@@ -90,6 +90,68 @@ Aqui está o endereço fictício utilizado no Google Maps:
 
 [Ver no Google Maps](https://www.google.com/maps)
 
+
+
+
+## Estilos do Site
+A seguir, você encontrará a descrição dos estilos utilizados no design, incluindo fontes, cores e tamanhos.
+
+### 1. Títulos e Cabeçalhos
+- **Fonte:** Cinzel (Serifada, elegante, com um toque clássico)
+- **Cor:** 
+  - Verde Escuro (<span style="color:#064635;">#064635</span>)
+  - Vermelho Escuro (<span style="color:#8B1A1A;">#8B1A1A</span>)
+- **Tamanho:** Grande (24-36px)
+
+### 2. Subtítulos e Seções Importantes
+- **Fonte:** Playfair Display (Serifada, sofisticada)
+- **Cor:** 
+  - Branco (<span style="color:#FFFFFF; background-color:#333333;">#FFFFFF</span>) sobre fundo escuro
+  - Dourado (<span style="color:#C9A67C;">#C9A67C</span>)
+- **Tamanho:** Médio (18-24px)
+
+### 3. Texto Corporal
+- **Fonte:** Roboto ou Lora (Serifada, legível, e moderna)
+- **Cor:** 
+  - Cinza Escuro (<span style="color:#333333;">#333333</span>)
+  - Preto (<span style="color:#000000;">#000000</span>) sobre fundo claro
+- **Tamanho:** Padrão (14-18px)
+
+### 4. Links e Botões
+- **Fonte:** Poppins ou Open Sans (Sans-serif, limpa e moderna)
+- **Cor:** 
+  - Vermelho Intenso (<span style="color:#C9302C;">#C9302C</span>) para botões
+  - Verde (<span style="color:#007B3C;">#007B3C</span>) para links
+- **Efeitos:** 
+  - Substituição de cor ao passar o mouse (hover), como o texto se tornar Branco (<span style="color:#FFFFFF;">#FFFFFF</span>) com um fundo colorido correspondente.
+
+### 5. Rodapé e Texto Secundário
+- **Fonte:** Montserrat (Sans-serif, versátil)
+- **Cor:** 
+  - Cinza Claro (<span style="color:#757575;">#757575</span>)
+  - Branco (<span style="color:#FFFFFF;">#FFFFFF</span>) sobre fundo escuro
+- **Tamanho:** Pequeno (12-14px)
+
+### 6. Logotipo e Nome do Restaurante
+- **Fonte:** Garamond ou Great Vibes (Serifada ou Script, elegante e clássica)
+- **Cor:** 
+  - Dourado (<span style="color:#D4AF37;">#D4AF37</span>)
+  - Bronze (<span style="color:#CD7F32;">#CD7F32</span>) para destacar o nome
+
+### 7. Sugestão de Combinações de Cores
+- **Fundo:**
+  - Bege Claro (<span style="color:#F5F5DC;">#F5F5DC</span>)
+  - Branco Suave (<span style="color:#FAF9F6;">#FAF9F6</span>)
+- **Destaques:**
+  - Verde Oliva (<span style="color:#556B2F;">#556B2F</span>)
+  - Vermelho Vinho (<span style="color:#8B1C1C;">#8B1C1C</span>)
+  - Marrom Rústico (<span style="color:#8B4513;">#8B4513</span>)
+
+---
+
+Essas tipografias e combinações de cores foram escolhidas para reforçar o tema italiano clássico e rústico, mantendo uma experiência de usuário agradável e coerente.
+
+
 ## 🏛 Direitos Autorais
 
 &copy; 2024 Tutti Nostri Ristorante. Todos os direitos reservados.
