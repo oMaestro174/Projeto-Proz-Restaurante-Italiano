@@ -96,8 +96,6 @@ Aqui está o endereço fictício utilizado no Google Maps:
 
 ## Estilos do Site
 
-A seguir, você encontrará a descrição dos estilos utilizados no design, incluindo fontes, cores e tamanhos.
-
 ### 1. Títulos e Cabeçalhos
 - **Fonte:** Cinzel (Serifada, elegante, com um toque clássico)
 - **Cor:** 
@@ -113,14 +111,14 @@ A seguir, você encontrará a descrição dos estilos utilizados no design, incl
 - **Tamanho:** Médio (18-24px)
 
 ### 3. Texto Corporal
-- **Fonte:** Roboto ou Lora (Serifada, legível, e moderna)
+- **Fonte:** Inter (Sans-serif, moderna e legível)
 - **Cor:** 
   - ![#333333](https://placehold.it/15/333333/000000?text=+) `#333333` (Cinza Escuro)
   - ![#000000](https://placehold.it/15/000000/000000?text=+) `#000000` (Preto) sobre fundo claro
 - **Tamanho:** Padrão (14-18px)
 
 ### 4. Links e Botões
-- **Fonte:** Poppins ou Open Sans (Sans-serif, limpa e moderna)
+- **Fonte:** Inter (Sans-serif, moderna e legível)
 - **Cor:** 
   - ![#C9302C](https://placehold.it/15/C9302C/000000?text=+) `#C9302C` (Vermelho Intenso) para botões
   - ![#007B3C](https://placehold.it/15/007B3C/000000?text=+) `#007B3C` (Verde) para links
@@ -128,14 +126,14 @@ A seguir, você encontrará a descrição dos estilos utilizados no design, incl
   - Substituição de cor ao passar o mouse (hover), como o texto se tornar ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF` com um fundo colorido correspondente.
 
 ### 5. Rodapé e Texto Secundário
-- **Fonte:** Montserrat (Sans-serif, versátil)
+- **Fonte:** Inter (Sans-serif, moderna e legível)
 - **Cor:** 
   - ![#757575](https://placehold.it/15/757575/000000?text=+) `#757575` (Cinza Claro)
   - ![#FFFFFF](https://placehold.it/15/FFFFFF/000000?text=+) `#FFFFFF` (Branco) sobre fundo escuro
 - **Tamanho:** Pequeno (12-14px)
 
 ### 6. Logotipo e Nome do Restaurante
-- **Fonte:** Garamond ou Great Vibes (Serifada ou Script, elegante e clássica)
+- **Fonte:** Cinzel (Serifada, elegante e clássica)
 - **Cor:** 
   - ![#D4AF37](https://placehold.it/15/D4AF37/000000?text=+) `#D4AF37` (Dourado)
   - ![#CD7F32](https://placehold.it/15/CD7F32/000000?text=+) `#CD7F32` (Bronze) para destacar o nome
@@ -148,6 +146,9 @@ A seguir, você encontrará a descrição dos estilos utilizados no design, incl
   - ![#556B2F](https://placehold.it/15/556B2F/000000?text=+) `#556B2F` (Verde Oliva)
   - ![#8B1C1C](https://placehold.it/15/8B1C1C/000000?text=+) `#8B1C1C` (Vermelho Vinho)
   - ![#8B4513](https://placehold.it/15/8B4513/000000?text=+) `#8B4513` (Marrom Rústico)
+
+---
+
 
 
 Essas tipografias e combinações de cores foram escolhidas para reforçar o tema italiano clássico e rústico, mantendo uma experiência de usuário agradável e coerente.
